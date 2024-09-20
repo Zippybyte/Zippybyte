@@ -1,6 +1,6 @@
 ### Hello!
 
-- I'm currently working on a project in a Hackathon
+- I'm currently trying my hardest to get freetime to work on projects
 
 <!--
 **Zippybyte/Zippybyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
